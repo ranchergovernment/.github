@@ -1,10 +1,9 @@
-# [Rancher Government](https://ranchergovernment.com) né [Rancher Federal](https://github.com/rancherfederal)
+# [Rancher Government](https://ranchergovernment.com)
 
-__[*Support*](https://support.rancherfederal.com/hc/en-us)__
-• [Products](https://ranchergovernment.com/products)
-• [Carbide](https://ranchergovernment.com/carbide)
-• [Solutions](https://ranchergovernment.com/solutions/edge-computing)
-• [Subscription](https://ranchergovernment.com/the-rancher-government-subscription)
-• [Resources](https://ranchergovernment.com/resources)
-• [About](https://ranchergovernment.com/about-rancher-government-solutions)
+Bringing DevSecOps to government customers everywhere. (Legal Name Rancher Federal Inc, a Delaware company)
+
+• [Carbide Docs](https://docs.ranchercarbide.dev)
+• [Portal](https://portal.ranchercarbide.dev/login)
+• [Support](https://support.rancherfederal.com/hc/en-us)
 • [Contact](https://ranchergovernment.com/contact)
+•
